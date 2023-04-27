@@ -9,6 +9,7 @@
 ### Comparison
 #### Camouflaged Object Detection
 ![tabel1](https://github.com/FlyingCan/MENet/blob/main/images/tabel1.jpg?raw=true)
+![tabel1](https://github.com/FlyingCan/MENet/blob/main/images/figure_pr.jpg?raw=true)
 ![figure3](https://github.com/FlyingCan/MENet/blob/main/images/figure3.jpg?raw=true)
 #### Salient object detection
 ![figure3](https://github.com/FlyingCan/MENet/blob/main/images/tabel2.jpg?raw=true)
