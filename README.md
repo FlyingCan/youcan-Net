@@ -5,7 +5,7 @@
 
 ![figure1](https://github.com/FlyingCan/MENet/blob/main/images/figure1.jpg?raw=true)
 ***
-![net](https://github.com/FlyingCan/MENet/blob/main/images/net1.jpg?raw=true)
+![net](https://github.com/FlyingCan/FBG-Net/blob/main/images/figure2.jpg?raw=true)
 ### Comparison
 #### Camouflaged Object Detection
 ![tabel1](https://github.com/FlyingCan/MENet/blob/main/images/tabel1.jpg?raw=true)
