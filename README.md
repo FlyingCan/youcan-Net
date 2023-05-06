@@ -5,18 +5,18 @@
 
 ![figure1](https://github.com/FlyingCan/MENet/blob/main/images/figure1.jpg?raw=true)
 ***
-![net](https://github.com/FlyingCan/FBG-Net/blob/main/images/figure2.jpg?raw=true)
+![net](https://github.com/FlyingCan/youcan-Net/blob/main/images/figure2.png?raw=true)
+![figure5](https://github.com/FlyingCan/youcan-Net/blob/main/images/figure5.png?raw=true)
 ### Comparison
 #### Camouflaged Object Detection
-![tabel1](https://github.com/FlyingCan/MENet/blob/main/images/tabel1.jpg?raw=true)
-![tabel1](https://github.com/FlyingCan/MENet/blob/main/images/figure7.png?raw=true)
+![pr](https://github.com/FlyingCan/youcan-Net/blob/main/images/figure6.png?raw=true)
 ![figure3](https://github.com/FlyingCan/MENet/blob/main/images/figure3.jpg?raw=true)
 #### Salient object detection
 ![figure3](https://github.com/FlyingCan/MENet/blob/main/images/tabel2.jpg?raw=true)
 #### Edge comparison
-![figure3](https://github.com/FlyingCan/MENet/blob/main/images/figure5.jpg?raw=true)
+![figure8](https://github.com/FlyingCan/youcan-Net/blob/main/images/figure8.png?raw=true)
 #### Ablation Study
-![figure3](https://github.com/FlyingCan/MENet/blob/main/images/figure6.jpg?raw=true)
+![figure3](https://github.com/FlyingCan/youcan-Net/blob/main/images/figure7.png?raw=true)
 > Visual display for sample in cod dataset. Best viewd by clikcing and zooming in.   
 <p class="third">
   <img src="https://github.com/FlyingCan/MENet/blob/main/images/chameleon_animal-13.gif?raw=true" width="18%">
